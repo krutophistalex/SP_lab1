@@ -1,1 +1,2 @@
-SP_lab1
+Lab 1
+Games guess the number
