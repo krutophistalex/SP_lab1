@@ -1,2 +1,2 @@
-Lab 1
-Games guess the number
+### Lab 1
+> Games guess the number
